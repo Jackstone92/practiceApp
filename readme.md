@@ -1,3 +1,3 @@
 # Practice Perfect Application
 
-Details Coming Soon.
+Application is still under construction
