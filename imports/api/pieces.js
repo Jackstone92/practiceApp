@@ -39,6 +39,7 @@ Meteor.methods({
 
     const websiteData = Scrape.website(url);
 
+
     return websiteData;
   },
 
